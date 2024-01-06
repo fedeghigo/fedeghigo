@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on personal project that i hope they will see public Light✨
+- 🌱 I’m currently learning  Network theory and LLM applied to Finance 
+- 💬 Ask me about Finance and Python!
+- 📫 How to reach me: Discord fedex_95
