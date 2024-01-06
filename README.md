@@ -19,16 +19,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about Finance and Python!
 - 📫 How to reach me: Discord fedex_95
 
+
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=fedeghigo&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&hide_rank=true"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=fedeghigo&count_private=true&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_rank=true"
+  media="(prefers-color-scheme: ambient_gradient)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=fedeghigo&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_rank=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  srcset="https://github-readme-stats.vercel.app/api?username=fedeghigo&count_private=true&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_rank=true"
+  media="(prefers-color-scheme: ambient_gradient), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=fedeghigo&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_rank=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=fedeghigo&count_private=true&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_rank=true" />
 </picture>
 
 
