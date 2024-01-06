@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fedeghigo&theme=vue-dark&size_weight=0.4&count_weight=0.6"
+  srcset="https://github-readme-stats.vercel.app/api?username=fedeghigo&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&hide_rank=true"
   media="(prefers-color-scheme: dark)"
 />
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=fedeghigo&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_rank=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=fedeghigo&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_rank=true" />
+</picture>
+
+
