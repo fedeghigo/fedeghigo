@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Finance and Python!
 - 📫 How to reach me: Discord fedex_95
 
+<picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fedeghigo&theme=vue-dark&size_weight=0.4&count_weight=0.6"
   media="(prefers-color-scheme: dark)"
