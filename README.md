@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  Network theory and LLM applied to Finance 
 - 💬 Ask me about Finance and Python!
 - 📫 How to reach me: Discord fedex_95
+
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fedeghigo&theme=vue-dark&size_weight=0.4&count_weight=0.6"
+  media="(prefers-color-scheme: dark)"
+/>
