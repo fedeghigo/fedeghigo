@@ -5,7 +5,6 @@ I’m **Federico**, passionate about **Finance, Network Theory, and Machine Lear
 - 🔭 I’m currently working on personal projects that I hope will **see the light soon ✨**
 - 🌱 I’m currently learning **Network Theory** and **LLMs applied to Finance**
 - 💬 Ask me about **Finance and Python**
-- 📫 How to reach me: **Discord — fedex_95**
 
 ---
 
