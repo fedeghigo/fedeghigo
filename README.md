@@ -17,4 +17,5 @@ I’m **Federico**, passionate about **Finance, Network Theory, and Machine Lear
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedeghigo&layout=compact&size_weight=0.4&count_weight=0.6&theme=ambient_gradient)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedeghigo&layout=compact&theme=github_dark)
+
