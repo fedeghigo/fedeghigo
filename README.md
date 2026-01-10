@@ -11,7 +11,7 @@ I’m **Federico**, passionate about **Finance, Network Theory, and Machine Lear
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fedeghigo&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=ambient_gradient)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fedeghigo&theme=github_dark)
 
 ---
 
