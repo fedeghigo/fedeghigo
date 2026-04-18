@@ -51,14 +51,3 @@ More detailed contribution metrics
 
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fedeghigo&theme=github_dark)
 
----
-
-## 🏆 Profile Summary (Full Dashboard)
-
-This is the “all-in-one” view (very clean)
-
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fedeghigo&theme=github_dark)
-
-
----
