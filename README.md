@@ -1,7 +1,3 @@
-Here’s a clean GitHub README-style section aligned with your tone and what you want to express:
-
----
-
 ## Hi there 👋
 
 I’m **Federico**, passionate about **Finance, Risk, and Machine Learning**.
