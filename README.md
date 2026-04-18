@@ -18,6 +18,7 @@ I’m **Federico**, passionate about **Finance, Risk, and Machine Learning**.
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fedeghigo\&theme=github_dark)
 
+
 ---
 
 ## 💻 Top Languages
@@ -30,9 +31,8 @@ I’m **Federico**, passionate about **Finance, Risk, and Machine Learning**.
 
 Shows activity over time
 
-```md
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fedeghigo&theme=github_dark)
-```
+
 
 ---
 
@@ -40,9 +40,8 @@ Shows activity over time
 
 Tracks consecutive contribution days
 
-```md
+
 ![Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fedeghigo&theme=github_dark)
-```
 
 ---
 
@@ -50,9 +49,7 @@ Tracks consecutive contribution days
 
 More detailed contribution metrics
 
-```md
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fedeghigo&theme=github_dark)
-```
 
 ---
 
@@ -60,8 +57,8 @@ More detailed contribution metrics
 
 This is the “all-in-one” view (very clean)
 
-```md
+
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fedeghigo&theme=github_dark)
-```
+
 
 ---
